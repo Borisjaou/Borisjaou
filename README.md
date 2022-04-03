@@ -1,7 +1,7 @@
 ### :hugs: Hi, I’m Boris
 
 ### Connect with me:
-[![website](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/boris-kim-b143ab209/)
+[![website](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/borisjaou)
 
 
 ### Languages and Tools:
