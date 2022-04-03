@@ -2,15 +2,22 @@
 - :nerd_face: I’m currently learning ...
 - :speech_balloon: How to reach me ...
 
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
 
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="CSS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="HTML" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+<img align="left" alt="Git" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
+
+<img align="left" alt="Figma" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" />
+
+<img align="left" alt="Md" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" />
+
+<img align="left" alt="MongoDB" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />
+
 
 <>
 <!---
