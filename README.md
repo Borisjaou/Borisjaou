@@ -1,7 +1,11 @@
-- :hugs: Hi, I’m Boris
-- :nerd_face: I’m currently learning ...
-- :speech_balloon: How to reach me ...
+### :hugs: Hi, I’m Boris
 
+### Connect with me:
+<img align="left" alt="LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />[https://www.linkedin.com/in/boris-kim-b143ab209/]
+
+
+
+### Languages and Tools:
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 
 <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
