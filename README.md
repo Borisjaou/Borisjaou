@@ -4,7 +4,7 @@
 [![website](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/borisjaou)
 
 
-### Languages and Tools:
+### Languages:
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 
 <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
@@ -15,13 +15,12 @@
 
 <img align="left" alt="ExpressJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" />
 
+###Tools:
 <img align="left" alt="Git" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
 
 <img align="left" alt="Figma" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" />
 
 <img align="left" alt="Md" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" />
-
-
 
 
 <!---
