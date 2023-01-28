@@ -15,7 +15,7 @@
 
 <img align="left" alt="Sass" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" />
 
-<img align="left" alt="ExpressJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"   
+<img align="left" alt="ExpressJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" />
 <br/>
 
 #### Tools:
