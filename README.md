@@ -1,4 +1,4 @@
-### :hugs: Hi, I’m Boris
+### :hugs: Hi, I’m Boris and I'm a FrontEnd developer :grin:
 
 ### Connect with me:
 [![website](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/borisjaou)
